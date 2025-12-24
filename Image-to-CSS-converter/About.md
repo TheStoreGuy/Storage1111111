@@ -1,0 +1,2 @@
+# About
+### upload an image, and this will badly convert it into pure CSS. currently you lose a lot of quality, but im tryna fix that. smaller images work better. use it when you dont wanna fetch an image from an external server, or fetch it as a file. forked from (https://github.com/dinguschan-owo/Image-to-CSS-converter)
